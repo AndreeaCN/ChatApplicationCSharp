@@ -1,0 +1,12 @@
+A:\ProjectL6\ChatWithBroadcast\ServerChat\bin\Debug2\ServerChat.exe.config
+A:\ProjectL6\ChatWithBroadcast\ServerChat\obj\Debug2\ServerChat.csprojResolveAssemblyReference.cache
+A:\ProjectL6\ChatWithBroadcast\ServerChat\bin\Debug2\ServerChat.exe
+A:\ProjectL6\ChatWithBroadcast\ServerChat\bin\Debug2\ServerChat.pdb
+A:\ProjectL6\ChatWithBroadcast\ServerChat\obj\Debug2\ServerChat.exe
+A:\ProjectL6\ChatWithBroadcast\ServerChat\obj\Debug2\ServerChat.pdb
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\bin\Debug2\ServerChat.exe.config
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\bin\Debug2\ServerChat.exe
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\bin\Debug2\ServerChat.pdb
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\obj\Debug2\ServerChat.csprojResolveAssemblyReference.cache
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\obj\Debug2\ServerChat.exe
+A:\ProjectL6\ChatWithBroadcastV5\ServerChat\obj\Debug2\ServerChat.pdb

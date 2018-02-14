@@ -1,0 +1,9 @@
+A:\ProjectL6\ChatWithBroadcastV3\ServersClasses\bin\Debug\ServersClasses.dll
+A:\ProjectL6\ChatWithBroadcastV3\ServersClasses\bin\Debug\ServersClasses.pdb
+A:\ProjectL6\ChatWithBroadcastV3\ServersClasses\obj\Debug\ServersClasses.dll
+A:\ProjectL6\ChatWithBroadcastV3\ServersClasses\obj\Debug\ServersClasses.pdb
+A:\ProjectL6\ChatWithBroadcastV5\ServersClasses\obj\Debug\ServersClasses.dll
+A:\ProjectL6\ChatWithBroadcastV5\ServersClasses\bin\Debug\ServersClasses.dll
+A:\ProjectL6\ChatWithBroadcastV5\ServersClasses\bin\Debug\ServersClasses.pdb
+A:\ProjectL6\ChatWithBroadcastV5\ServersClasses\obj\Debug\ServersClasses.csprojResolveAssemblyReference.cache
+A:\ProjectL6\ChatWithBroadcastV5\ServersClasses\obj\Debug\ServersClasses.pdb
